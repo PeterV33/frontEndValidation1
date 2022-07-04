@@ -1,6 +1,13 @@
-label{
-
+form{
+    
 }
 input{
-    width: 100%;
+    
+}
+.grid-container {
+    text-align: left;
+    display: flex;
+    display: grid;
+    gap: 50px;
+
 }
